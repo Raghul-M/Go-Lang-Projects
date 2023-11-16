@@ -2,12 +2,13 @@
 
 Welcome to my Golang projects repository! Here you'll find a collection of projects I've been working on using the Go programming language.
 
-![Golang Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhcQ3xh5vaHvS0tVk24u2_7i0_NN4ysKvaqw&usqp=CAU)
+ <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632335003802/mnkD6ZZW6.jpeg" alt="Your Image" style="display: block; ; width:200; height:300">
 
 ## Project List
 
-- Project 1: Slack Bot - File Upload [Golang]
-- Project 2: -
+- Project 1: [Slack Bot - File Upload](https://github.com/Raghul-M/Go-Lang-Projects/tree/main/slack-file-bot)
+- Project 2: [Quiz App](https://github.com/Raghul-M/Go-Lang-Projects/tree/main/Go_quiz_app)
+- Project 3:
 
 
 
