@@ -12,6 +12,8 @@ Welcome to my Golang projects repository! Here you'll find a collection of proje
 - Project 4: [CLI Weather Forecaster](https://github.com/Raghul-M/Go-Lang-Projects/tree/main/CLI%20-%20Weather%20Forecaster)
 - Project 5: [Password Generator](https://github.com/Raghul-M/Go-Lang-Projects/tree/main/Password-Generator)
 - Project 6: []()
+- Project 7: []()
+- Project 8: []()
 
 Feel free to explore the projects and contribute if you'd like. If you have any questions or suggestions, please don't hesitate to reach out. 
 Happy coding!
